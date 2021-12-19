@@ -1,5 +1,8 @@
 # World_Weather_Analysis
 
+# Overview
+This Analysis folder looks at different weather patterns ariund the globe and help travelers who want to book a trip based on weather description, maximun temperature, minimun temperature and other weather factors.
+
 ## Background
 
 >A recommendation was made to add the weather description to the weather data retrieved in World_Weather_Analysis module. Then, use input statements to filter the data based on the Beta testers input for weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, I will create a travel route between the four cities as well as a marker layer map.
@@ -38,7 +41,7 @@ Using the weather database and Google Maps API a map was plottled with different
 1. Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
 2. Create a marker layer map with a pop-up marker for each city on the itinerary.
 
-For example, the image below shows a four stop itinerary in Norther Brazil:
+For example, the image below shows a four stop itinerary in Northern Brazil:
 
 ![](Vacation_Itinerary/WeatherPy_travel_map.png)
 
