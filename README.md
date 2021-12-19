@@ -13,7 +13,7 @@ This Analysis folder looks at different weather patterns ariund the globe and he
 3. Retrieve the current weather description for each city from the API call.
 4. Create a new DataFrame containing the updated weather data.
 
-The DataFrame created by an API call with OpenWeatherMap consist of over 700 cities around the world:
+The DataFrame created by an API call with OpenWeatherMap consist of over 700 cities around the globe and:
 
 * Maximum Temperature
 * Cloudiness
