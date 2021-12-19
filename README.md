@@ -26,7 +26,7 @@ The DataFrame created by an API call with OpenWeatherMap consist of over 700 cit
 2. Use customer weather preferences to identify potential travel destinations and nearby hotels.
 3. Print those destinations on amrker layer map with pop-up markers.
 
-Using the weather database and Google Maps API a map was plottled with different travel destinations with a hotel at each location.For example, the figure belwo shows the locations of all the places in the weather database that have a maximun temperature of 90f and minimun temperature of 75f.
+Using the weather database and Google Maps API a map was plottled with different travel destinations with a hotel at each location.For example, the figure belwo shows the locations of all the places in the weather database that have a maximun temperature of 90F and minimun temperature of 75F.
 
 ![](Vacation_Search/WeatherPy_vacation_map.png)
 
