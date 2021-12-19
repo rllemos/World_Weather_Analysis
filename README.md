@@ -9,6 +9,7 @@
 2. Retrieve the nearest city, and perform an API call with the OpenWeatherMap.
 3. Retrieve the current weather description for each city from the API call.
 4. Create a new DataFrame containg the updated weather data.
+!
 
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
